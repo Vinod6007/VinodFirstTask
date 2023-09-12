@@ -2,7 +2,7 @@ package org.sample;
 
 public class Array {
 	public static void main(String[] args) {
-		int arr[]= {20,40,60,80,100,100,120,140};
+		int arr[]= {20,40,60,80,100,100,120,160};
 		 arr[3]=50;
 		 String s[]= {"vino","karthi","","raj"};
 		System.out.println(arr.length);
